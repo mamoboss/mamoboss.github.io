@@ -1,7 +1,7 @@
 # Site settings
 baseURL = "https://gabrielemarchesan.com"
 languageCode = "en-US"
-title = "Split - HTML Template Demo"
+title = "La finestra di Gabriele Marchesan nel web"
 theme = "hugo-split-theme"
 disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
 
