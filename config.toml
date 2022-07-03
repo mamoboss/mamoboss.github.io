@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "https://mamoboss.github.io"
+baseURL = "https://gabrielemarchesan.com"
 languageCode = "en-US"
 title = "Split - HTML Template Demo"
 theme = "hugo-split-theme"
@@ -18,7 +18,7 @@ copyright = "&copy;2022 Gabriele Marchesan"
 [params]
 
   # Metadata for search engines and social sharing
-  author = "Jenny Jones"
+  author = "Gabriele Marchesan"
   description = "Split is a centrally-divided layout for a professional online presence with a big image or video left with alongside content."
   shareImage = "images/social.jpg"
   twitterHandle = "onepagelove"
