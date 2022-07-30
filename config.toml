@@ -1,6 +1,6 @@
 # Site settings
 baseURL = "https://gabrielemarchesan.com"
-languageCode = "en-US"
+languageCode = "it-IT"
 title = "La finestra di Gabriele Marchesan nel web"
 theme = "hugo-split-theme"
 disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
@@ -72,7 +72,7 @@ copyright = "&copy;2022 Gabriele Marchesan"
 
       [[params.links.list2.link]]
         text = "Instagram"
-        url = "#"
+        url = "https://www.instagram.com/gabriele_marchesan/"
 
       [[params.links.list2.link]]
         text = "Dribbble"
