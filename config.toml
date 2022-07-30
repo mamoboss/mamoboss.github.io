@@ -50,7 +50,7 @@ copyright = "&copy;2022 Gabriele Marchesan"
       heading = "Connect"
 
       [[params.links.list1.link]]
-        text = "instagram"
+        text = "Instagram"
         url = "https://www.instagram.com/gabriele_marchesan/"
   #
   #     [[params.links.list1.link]]
